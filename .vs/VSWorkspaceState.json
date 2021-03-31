@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\axios",
+    "\\src\\components",
+    "\\src\\router"
+  ],
+  "SelectedNode": "\\src\\components\\VirtualList.vue",
+  "PreviewInSolutionExplorer": false
+}

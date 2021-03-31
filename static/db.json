@@ -1,0 +1,56 @@
+{
+    "userName": "我是账号名",
+    "userID": "LD",
+    "userPassword": "12345678",
+    "token": null,
+    "userLevel": 0,
+    "courses": [
+      {
+        "coursesName": "Vuex学习",
+        "coursesNumber": 1256,
+        "coursesLevel": "免费视频",
+        "courseStatus": 1
+      },
+      {
+        "coursesName": "Axios学习",
+        "coursesNumber": 2563,
+        "coursesLevel": "会员视频",
+        "courseStatus": 2
+      },
+      {
+        "coursesName": "VueCli全家桶",
+        "coursesNumber": 2546,
+        "coursesLevel": "顶级视频",
+        "courseStatus": 3
+      }
+    ],
+    "LevelBug": [
+      {
+        "LevelBuyName": "VIP会员",
+        "LevelBuyMoney": "10.00",
+        "LevelBuyTime": "30",
+        "LevelBuyID": 1
+      },
+      {
+        "LevelBuyName": "VIP1会员",
+        "LevelBuyMoney": "20.00",
+        "LevelBuyTime": "30",
+        "LevelBuyID": 2
+      },
+      {
+        "LevelBuyName": "VIP2会员",
+        "LevelBuyMoney": "40.00",
+        "LevelBuyTime": "30",
+        "LevelBuyID": 3
+      },
+      {
+        "LevelBuyName": "VIP3会员",
+        "LevelBuyMoney": "100.00",
+        "LevelBuyTime": "30",
+        "LevelBuyID": 4
+      }
+
+    ]
+}
+
+
